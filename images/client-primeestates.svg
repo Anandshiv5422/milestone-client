@@ -1,0 +1,8 @@
+<svg width="520" height="240" viewBox="0 0 520 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="240" rx="28" fill="#0C2034"/>
+  <rect x="26" y="26" width="468" height="188" rx="22" stroke="#204E77" stroke-width="2"/>
+  <path d="M82 142L118 86L154 142H82Z" fill="#2FA4E7"/>
+  <rect x="97" y="138" width="42" height="26" rx="5" fill="#E9F5FF"/>
+  <text x="210" y="116" fill="#E9F5FF" font-family="Arial, sans-serif" font-size="34" font-weight="700">Prime Estates</text>
+  <text x="210" y="150" fill="#8EB7D8" font-family="Arial, sans-serif" font-size="18">Residential development group</text>
+</svg>

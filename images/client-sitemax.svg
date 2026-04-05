@@ -1,0 +1,8 @@
+<svg width="520" height="240" viewBox="0 0 520 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="240" rx="28" fill="#0C2034"/>
+  <rect x="26" y="26" width="468" height="188" rx="22" stroke="#204E77" stroke-width="2"/>
+  <path d="M84 154L122 82L160 154H84Z" fill="#7FD0FF"/>
+  <path d="M122 82V154" stroke="#0C2034" stroke-width="8" stroke-linecap="round"/>
+  <text x="210" y="116" fill="#E9F5FF" font-family="Arial, sans-serif" font-size="34" font-weight="700">SiteMax</text>
+  <text x="210" y="150" fill="#8EB7D8" font-family="Arial, sans-serif" font-size="18">Field-ready operations support</text>
+</svg>

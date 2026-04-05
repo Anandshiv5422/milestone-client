@@ -1,0 +1,8 @@
+<svg width="520" height="240" viewBox="0 0 520 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="240" rx="28" fill="#0C2034"/>
+  <rect x="26" y="26" width="468" height="188" rx="22" stroke="#204E77" stroke-width="2"/>
+  <circle cx="122" cy="122" r="38" fill="#2FA4E7"/>
+  <path d="M108 122L119 133L138 110" stroke="#E9F5FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="116" fill="#E9F5FF" font-family="Arial, sans-serif" font-size="34" font-weight="700">Metro Projects</text>
+  <text x="210" y="150" fill="#8EB7D8" font-family="Arial, sans-serif" font-size="18">Execution and delivery focus</text>
+</svg>
